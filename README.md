@@ -32,7 +32,7 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 *Note: the .yaml file is provided to facilitate the duplication of the Python environment used to write the code*
 
-### Metadata is found in the .xls file
+### Metadata is found in the .xlxs file
 
 * sheet 'Recorded cells' has the list of cells in the main dataset and their properties (see Tables S1 and S2 from the paper)
 
