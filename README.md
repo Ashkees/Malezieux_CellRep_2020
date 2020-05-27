@@ -24,3 +24,5 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 ### The remaining scripts can be run on these python dictionaries to create the main data figures found in the paper.
 
+*Note: the .yaml file is provided to facilitate the duplication of the Python environment used to write the code*
+
