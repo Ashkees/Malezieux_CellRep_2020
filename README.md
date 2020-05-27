@@ -10,7 +10,7 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 * Malezieux_CellRep_load_data_hf.py
 
-### Next, these datasets were combined using the following script:
+### Next, these datasets were combined and further processed using the following script:
 
 * Malezieux_CellRep_combine_datasets.py
 
