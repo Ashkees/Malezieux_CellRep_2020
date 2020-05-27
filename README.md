@@ -10,7 +10,7 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 * Malezieux_CellRep_load_data_CS.py
 
-   *detects spikes and complex spikes*
+   *detects spikes, spikelets, and complex spikes*
 
 * Malezieux_CellRep_load_data_hf.py
 
