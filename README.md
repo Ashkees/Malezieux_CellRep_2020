@@ -26,7 +26,7 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 * Malezieux_CellRep_load_data_Rin.py
 
-*The python dictionaries that result from the above script can be found for public download at [insert link here]*
+*The python dictionaries that result from the above script can be found for public download at http://datadryad.org/stash/dataset/doi:10.5061/dryad.jq2bvq86r*
 
 ### The remaining scripts can be run on these python dictionaries to create the main data figures and compute the statistics found in the paper.
 
