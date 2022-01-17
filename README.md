@@ -20,7 +20,7 @@ Analysis codes for Malezieux, Kees, and Mulle (2020). Cell Reports
 
 * Malezieux_CellRep_combine_datasets.py
 
-*The python dictionaries that result from the above script can be found for public download at [insert link here]*
+*The python dictionaries that result from the above script can be found for public download at [https://datadryad.org/stash/dataset/doi:10.5061/dryad.jq2bvq86r]*
 
 ### Other raw data files (.abf) from a separate population of cells subjected to the Rin protocol were processed using the following script:
 
